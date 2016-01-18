@@ -48,7 +48,7 @@ Quick walkthrough basics in Photoshop and Illustrator
 - From there, you can see that every individual component has id tags that match your layer names from the Illustrator file.
 - Just like any other domElement, these can now be edited using "fill" and other style tags. 
 - You can even ANIMATE individual components! 
-- REMEMBER: this sort of animation/ styling for the individual components ONLY works if you've embeded the SVG inline! They WILL NOT works if you embed it like so: (<img src = "some.svg"/>)
+- REMEMBER: this sort of animation/ styling for the individual components ONLY works if you've embeded the SVG inline! They WILL NOT works if you embed it like so: (<img src = "some.svg"/)
 
 
 Hopefully that was a fun intro! 
