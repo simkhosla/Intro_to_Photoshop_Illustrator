@@ -3,8 +3,8 @@ Quick walkthrough basics in Photoshop and Illustrator
 
 
 ###To Begin:
-- Download the Adobe Creative Cloud versions of Adobe Photoshop and Illustrator (or any other version you may have).
-- 
+Download the Adobe Creative Cloud versions of Adobe Photoshop and Illustrator (or any other version you may have).
+
 ##PHOTOSHOP BASICS:
 ###Types of Images:
 - Distinguish between the different image types and which type works best for you. 
